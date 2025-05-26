@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1039404264673",
+    "firebase_url": "https://okwardrope-default-rtdb.firebaseio.com",
+    "project_id": "okwardrope",
+    "storage_bucket": "okwardrope.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039404264673:android:fa928d17561870e7379ba0",
+        "android_client_info": {
+          "package_name": "com.example.music_room"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0IV_7OWJeDllJUW8VE_KusZ6Elj7eyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039404264673:android:06614e27b8f344cb379ba0",
+        "android_client_info": {
+          "package_name": "com.mycompany.balancedmealapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0IV_7OWJeDllJUW8VE_KusZ6Elj7eyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
