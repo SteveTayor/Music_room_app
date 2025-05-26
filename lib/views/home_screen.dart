@@ -567,9 +567,17 @@ class _HomeScreenState extends State<HomeScreen> {
                 onPressed: () {
                   Navigator.pop(context);
                   ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(
-                      content: Text('Demo booking confirmed!'),
-                      backgroundColor: Color(0xFFA90140),
+                    SnackBar(
+                      content: Text(
+                        'Demo booking confirmed!',
+                        style: GoogleFonts.syne(
+                          fontWeight: FontWeight.w600,
+                          letterSpacing: 0.5,
+                          fontSize: 16,
+                          color: Colors.white,
+                        ),
+                      ),
+                      backgroundColor: Color(0xFF550120),
                     ),
                   );
                 },

@@ -91,9 +91,12 @@ dev_dependencies:
 
 ## 🎥 Demo Recording
 
-<video src="assets/video/demo.mp4" width="320" autoplay muted style="float: left; margin-right: 1rem;"></video>
+You can find the demo screen recording in the assets folder at:
+
+```
+assets/video/demo.mkv
+```
 
 A short screen recording demonstrating the UI, navigation, and dynamic data loading.
 
----
 
