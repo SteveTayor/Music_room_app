@@ -91,7 +91,7 @@ dev_dependencies:
 
 ## 🎥 Demo Recording
 
-<video src="assets/video/demo.mp4" width="320" controls style="float: left; margin-right: 1rem;"></video>
+<video src="assets/video/demo.mp4" width="320" autoplay muted style="float: left; margin-right: 1rem;"></video>
 
 A short screen recording demonstrating the UI, navigation, and dynamic data loading.
 

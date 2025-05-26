@@ -40,7 +40,7 @@ class ServiceCard extends StatelessWidget {
           onTap: onTap,
           borderRadius: BorderRadius.circular(12),
           child: Padding(
-            padding: const EdgeInsets.all(20),
+            padding: const EdgeInsets.all(12),
             child: Row(
               children: [
                 // Custom Icon Container
