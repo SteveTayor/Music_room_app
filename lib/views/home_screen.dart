@@ -569,12 +569,12 @@ class _HomeScreenState extends State<HomeScreen> {
                   ScaffoldMessenger.of(context).showSnackBar(
                     const SnackBar(
                       content: Text('Demo booking confirmed!'),
-                      backgroundColor: Color(0xFFB91372),
+                      backgroundColor: Color(0xFFA90140),
                     ),
                   );
                 },
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: const Color(0xFFB91372),
+                  backgroundColor: const Color(0xFFA90140),
                   foregroundColor: Colors.white,
                 ),
                 child: const Text('Book Now'),
